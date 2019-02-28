@@ -1,0 +1,8 @@
+D:\binbin\ImageCap\Player\bin\x64\Debug\Uface.dll
+D:\binbin\ImageCap\Player\bin\x64\Debug\Uface.pdb
+D:\binbin\ImageCap\Player\obj\x64\Debug\Uface.dll
+D:\binbin\ImageCap\Player\obj\x64\Debug\Uface.pdb
+E:\bin\code\ImageCap\Player\bin\x64\Debug\Uface.dll
+E:\bin\code\ImageCap\Player\bin\x64\Debug\Uface.pdb
+E:\bin\code\ImageCap\Player\obj\x64\Debug\Uface.dll
+E:\bin\code\ImageCap\Player\obj\x64\Debug\Uface.pdb

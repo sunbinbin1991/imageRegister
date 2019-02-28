@@ -1,0 +1,13 @@
+D:\binbin\Player2\Player\bin\x86\Debug\Uface.dll
+D:\binbin\Player2\Player\bin\x86\Debug\Uface.pdb
+D:\binbin\Player2\Player\obj\x86\Debug\Uface.dll
+D:\binbin\Player2\Player\obj\x86\Debug\Uface.pdb
+D:\binbin\ImageCap\Player\bin\x86\Debug\Uface.dll
+D:\binbin\ImageCap\Player\bin\x86\Debug\Uface.pdb
+D:\binbin\ImageCap\Player\obj\x86\Debug\Uface.dll
+D:\binbin\ImageCap\Player\obj\x86\Debug\Uface.pdb
+E:\bin\code\ImageCap\Player\bin\x86\Debug\Uface.dll
+E:\bin\code\ImageCap\Player\bin\x86\Debug\Uface.pdb
+E:\bin\code\ImageCap\Player\obj\x86\Debug\Uface.dll
+E:\bin\code\ImageCap\Player\obj\x86\Debug\Uface.pdb
+E:\bin\code\ImageCap\Player\obj\x86\Debug\Uface.csprojResolveAssemblyReference.cache
